@@ -26,6 +26,16 @@ The third drawing is more of a visual digital piece and does not require viewer 
 **Inspiration**<br>
 My inspiration was the [open processing gallery](https://www.openprocessing.org/browse/#) itself, where anyone can look at sketches that have been shared -- some of which are interactive. 
 
+**Key Code**<br>
+Most important code are the 'else if' functions that allow the viewer to travel between pages.
+
+The initial introduction to the main gallery page is done with a video. 
+*void movieEvent(Movie video) {
+  video.read();
+} *
+
+Most other interactive elements are facilitated by the use of **void mouseMoved** and **void mouseClicked**
+
 **Screenshots**<br>
 ![alt text](https://66.media.tumblr.com/4caf93dda46d018b559c0dff8f17ba1c/tumblr_pjcz837h2m1rdqc46o1_540.png)
 ![alt text](https://66.media.tumblr.com/770df999340432e66947822bca01491a/tumblr_pjczceLGqO1rdqc46o1_1280.png)
