@@ -148,7 +148,7 @@ void mousePressed() {
 }
 
 void mouseMoved() {
-  if (mouseX>img.width/3000) {
+  if (mouseX>img.width/3000 && mode == 4) {
     int x = mouseX;
     int y = mouseY;
     int loc = x + y*img.width;
