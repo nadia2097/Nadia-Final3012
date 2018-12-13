@@ -1,4 +1,5 @@
 # NMA 3012 Final (Fall 2018)
+# _Digital Art Gallery_
 
 **Artist Statement**<br>
 I like to draw. It’s been a hobby of mine since I was a kid. I remember starting off tracing pictures of Squidward and neopets. In middle school a friend introduced me to anime. Now I’m not into that stuff anymore but it definitely influenced my artstyle a lot. Eventually I moved onto drawing all digitally. I was met with both praise and criticism but I remember the one thing that used to make me most self conscious was the fact that people would often say “oh it’s anime.” Not even western cartoony styles were met with the same snarky tone.
@@ -39,7 +40,8 @@ Most other interactive elements are facilitated by the use of **void mouseMoved*
 **Screenshots**<br>
 ![alt text](https://66.media.tumblr.com/4caf93dda46d018b559c0dff8f17ba1c/tumblr_pjcz837h2m1rdqc46o1_540.png)
 ![alt text](https://66.media.tumblr.com/770df999340432e66947822bca01491a/tumblr_pjczceLGqO1rdqc46o1_1280.png)
-![alt text](https://i.imgur.com/sVQkeTo.png)
+![alt text](https://i.imgur.com/sVQkeTo.png)<br>
+The first drawing once it fills out. <br>
 ![alt text](https://66.media.tumblr.com/2947204e304ec7780e4558e559d7c948/tumblr_pjczceLGqO1rdqc46o4_1280.png)
 ![alt text](https://66.media.tumblr.com/b2b780e819f26ca27290f8bbf0c4139c/tumblr_pjczceLGqO1rdqc46o3_1280.png)
 ![alt text](https://66.media.tumblr.com/475c27203734c93a65d0c61c6647028f/tumblr_pjczceLGqO1rdqc46o2_1280.png)
